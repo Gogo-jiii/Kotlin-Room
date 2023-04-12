@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="data_to_be_inserted">Data to be inserted</string>
+    <string name="insert_data">insert data</string>
+    <string name="retrieve_data">Retrieve Data</string>
+    <string name="data_to_be_updated">Data to be updated</string>
+    <string name="updated_data">Updated Data</string>
+    <string name="update_data">Update data</string>
+    <string name="data_to_be_deleted">Data to be deleted</string>
+    <string name="delete_data">Delete Data</string>
+</resources>
